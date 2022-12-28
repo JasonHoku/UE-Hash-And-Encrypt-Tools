@@ -1,11 +1,12 @@
 # ue-hash-and-encrypt-tools
 Included are 7 blueprint functions and source code for password hashing with md5, generating saving and loading credentials and implementing custom encryption techniques.
 
+Support my efforts with as little as a dollar: https://ko-fi.com/jasonhoku
 
 
- ConvertBytesToString
- ConvertStringToBytes
- SaveArrayOfBytesToFile
+ConvertBytesToString
+ConvertStringToBytes
+SaveArrayOfBytesToFile
 LoadArrayOfBytesFromFile
 CustomEncryptString
 GenerateRandomString
