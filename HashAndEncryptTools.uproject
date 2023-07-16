@@ -32,6 +32,11 @@
 				"Mac",
 				"Linux"
 			]
+		},
+		{
+			"Name": "HashAndEncryptToolsPlugin",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/d5b19acb7874495b9b5cce835bf7a1b4"
 		}
 	],
 	"TargetPlatforms": [
